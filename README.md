@@ -1,3 +1,11 @@
+###
+
+<p align="center">
+ <img width="600" src="assets/computer.gif" alt="snake"/>
+</p>
+
+###
+
 ## Привет 👋 Меня зову Тихон
 
 ###
