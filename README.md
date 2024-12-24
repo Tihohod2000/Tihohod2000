@@ -1,7 +1,7 @@
 ###
 
 <p align="center">
- <img width="600" src="assets/computer.gif" alt="snake"/>
+ <img width="300" src="assets/computer.gif" alt="snake"/>
 </p>
 
 ###
