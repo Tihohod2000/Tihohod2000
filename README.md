@@ -1,8 +1,8 @@
 ###
 
 <p align="center">
- <img width="200" src="assets/computer.gif" alt="snake"/>
- <img width="200" src="assets/giphy.webp" alt="snake"/>
+ <img height="300" width="200" src="assets/computer.gif" alt="snake"/>
+ <img height="300" width="300" src="assets/giphy.webp" alt="snake"/>
 </p>
 
 ###
