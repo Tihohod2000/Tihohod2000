@@ -1,7 +1,7 @@
 ###
 
 <p align="center">
- <img height="250" width="200" src="assets/computer.gif" alt="snake"/>
+ <img height="250" width="300" src="assets/giphy_2.webp" alt="snake"/>
  <img height="250" width="300" src="assets/giphy.webp" alt="snake"/>
 </p>
 
