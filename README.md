@@ -59,6 +59,14 @@
 ###
 
 <div align="center">
+  <img src="https://www.codewars.com/users/Tihohod/badges/large"  />
+</div>
+
+###
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Tihohod2000&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
